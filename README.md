@@ -20,7 +20,7 @@ All code was written in Python 3 in a Jupyter notebook environment: a full summa
 |**Standard packages for data analysis:**|
 |numpy|2.0.2|-|---|
 |pandas|2.2.2|-|---|
-|matplotlib|3.10.0|pyplot|---|
+|matplotlib|3.10.0|pyplot, colors|---|
 |seaborn|0.13.2|-|---|
 |**Processing and visualising spatial data**:|
 |geopandas|1.1.4|-|---|
