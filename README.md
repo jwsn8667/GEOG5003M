@@ -18,24 +18,24 @@ All code was written in Python 3 in a Jupyter notebook environment: a full summa
 |Package|Version|Sub-module(s)|Citation|
 |---|---|---|---|
 |**Standard packages for data analysis:**|
-|numpy|---|-|---|
-|pandas|---|-|---|
-|matplotlib|---|pyplot|---|
-|seaborn|---|-|---|
+|numpy|2.0.2|-|---|
+|pandas|2.2.2|-|---|
+|matplotlib|3.10.0|pyplot|---|
+|seaborn|0.13.2|-|---|
 |**Processing and visualising spatial data**:|
-|geopandas|---|-|---|
-|contextily|---|-|---|
-|pyproj|---|-|---|
-|matplotlib-map-utils|---|core.north_arrow, core.scale_bar|---|
-|shapely|---|geometry|---|
+|geopandas|1.1.4|-|---|
+|contextily|1.7.1|-|---|
+|pyproj|3.7.2|-|---|
+|matplotlib-map-utils|4.1.1|core.north_arrow, core.scale_bar|---|
+|shapely|2.1.2|geometry|---|
 |**Data collection:**|
-|requests|---|-|---|
-|json|---|-|---|
+|requests|2.32.4|-|---|
+|json|-|-|---|
 |**Statistical modelling:**|
-|scipy|---|stats|---|
+|scipy|1.16.3|stats|---|
 |sklearn|---|linear_model, preprocessing|---|
 |**Miscallaneous:**|
-|warnings|---|-|---|
+|warnings|-|-|---|
 
 **Table**: Python packages used in analysis.
 
