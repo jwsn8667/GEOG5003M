@@ -47,13 +47,13 @@ A separate reference list is provided below for citations in this readme file; t
 
 **References**
 
-1.  Local and Regional GHG...
-2.  *Grid decarbonisation timeline*
-3.  Total final energy consumption...
-4.  *ASHP leading low carbon technology for domestic heating - CCC?*
-5.  Research risks, Salford Uni.
-6.  *ECO eligibility*
-7.  LSE blog
-8.  CFP
-9.  2015 energy excess research paper
-10.  Jayne Carrick
+1.  DESNZ.  *UK local authority and regional greenhouse gas emissions statistics, 2005 to 2024*.  [Online].  2026.  [Accessed 30 July 2026].  Available from: https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2024
+2.  NESO.  *Clean Power 2030*.  [Online].  2024.  [Accessed 20 July 2026].  Available from: https://www.neso.energy/document/346651/download
+3.  DESNZ.  *Total final energy consumption at regional and local authority level: 2005 to 2023*.  [Online].  2025.  [Accessed 30 July 2026].  Available from: https://www.gov.uk/government/statistics/total-final-energy-consumption-at-regional-and-local-authority-level-2005-to-2023
+4.  CCC.  *The Seventh Carbon Budget*.  [Online].  2025.  [Accessed 30 July 2026].  Available from: https://www.theccc.org.uk/wp-content/uploads/2025/02/The-Seventh-Carbon-Budget.pdf
+5.  Sherriff, G., Butler, D. & Brown, P.  'The reduction of fuel poverty may be lost in the rush to decarbonise': Six research risks at the intersection of fuel poverty, climate change and decarbonisation.  *People, Place and Policy*.  [Online].  2022, pp.1-20.  [Accessed 30 July 2026].  Available from: http://dx.doi.org/10.3351/ppp.2022.3776894798
+6.  GOV.UK.  *Help from your energy supplier: the Energy Company Obligation*.  [Online].  [No date].  [Accessed 30 July 2026].  Available from: https://www.gov.uk/energy-company-obligation
+7.  McKnight, A.  There’s a problem with how we measure fuel poverty. 25 Febbruary.  *LSE British Politics*.  2025.  [Online]. [Accessed 30 July 2026]. Available from: https://blogs.lse.ac.uk/politicsandpolicy/theres-a-problem-with-how-we-measure-fuel-poverty/
+8.  Committee on Fuel Poverty.  *Response to Tackling Fuel Poverty report by the Centre for Sustainable Energy*.  [Online].  [No date].  [Accessed 30 July 2026].  Available from: https://assets.publishing.service.gov.uk/media/5b167e8240f0b634b73dbe82/Research_by_CSE_for_CFP_-_Policy_Tensions_and_Synergies_-_CFP_response-.pdf
+9.  Chatterton, T, Barnes, J., Yeboah, G. & Anable, J.  Energy justice? A spatial analysis of variations in household direct energy consumption in the UK.  In: *eceee 2015 Summer Study on energy efficiency, 1-6 June 2015, Giens Peninsula*.  [Online].  Stockholm: European Council for an Energy Efficient Economy, 2016.  [Accessed 30 July 2026].  Available from: https://www.eceee.org/library/conference_proceedings/eceee_Summer_Studies/2015/1-foundations-of-future-energy-policy/energy-justice-a-spatial-analysis-of-variations-in-household-direct-energy-consumption-in-the-uk/
+10.  Carrick, J. & Wood, M.  What drives energy decadence? Survey evidence on energy consumption perceptions in South Yorkshire.  *Local Environment*.  [Online].  2026, pp.1-20.  [Accessed 30 July 2026].  Available from: https://doi.org/10.1080/13549839.2026.2644484
